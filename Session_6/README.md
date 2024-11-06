@@ -7,3 +7,17 @@
     - Any type of dataset with observational / statistical data (no labels needed)
 - 1D data via Series class
     - Time series data
+
+As one can see, from the type of datasets **Pandas** can handle, most of the use cases found in Data Science are covered, e.g. finance, health, biology, supply chain, or meteorology. Things **Pandas** do:
+
+1. Handling missing data
+2. Change DataFrame size, adding and removing columns and rows at will
+3. Automatic data alignment of misaligned data
+4. Group by operation
+5. Data conversion
+6. Advanced indexing
+7. Data Merging and joining 
+8. Reshaping data
+9. Hierarchical indexing
+10. Read/write support for CSV, Excel, databases, and fast HDF5 format.
+11. Time series manipulation, frequency convertion, window moving statistics
